@@ -7,8 +7,8 @@ This notebook provides a pipeline to convert
 ## Usage
 
 All pipeline is contained rucor_to_conllu.ipynb notebook file. Just set the
-path to the *RuCor* and run. Maybe, you'll want also to change some variables
-in the cell `4`.
+paths to the *RuCor* and *MorDL* models and run. Maybe, you'll want also to
+change some variables in the cell `4`.
 
 ## License
 
