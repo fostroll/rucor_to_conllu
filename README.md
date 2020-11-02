@@ -19,6 +19,6 @@ change some variables in cells `2` or/and `4`.
 
 ## License
 
-***srv_zero*** is released under the Creative Commons License. See the
+***rucor_to_conllu*** is released under the Creative Commons License. See the
 [LICENSE](https://github.com/fostroll/srv_zero/blob/master/LICENSE) file for
 more details.
