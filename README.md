@@ -4,6 +4,12 @@ This notebook provides a pipeline to convert
 [*RuCor*](http://rucoref.maimbava.net/) corpus to
 [*CoNLL-U*](https://universaldependencies.org/format.html) format.
 
+## Prerequisites
+
+1. [***Toxine***](https://github.com/fostroll/toxine) preprocessor.
+1. Morphological parser [***MorDL***](https://github.com/fostroll/mordl) with
+UPOS and FEATS models already trained.
+
 ## Usage
 
 All pipeline is contained rucor_to_conllu.ipynb notebook file. Just set the
