@@ -7,14 +7,15 @@ This notebook provides a pipeline to convert
 ## Prerequisites
 
 1. [***Toxine***](https://github.com/fostroll/toxine) preprocessor.
-1. Morphological parser [***MorDL***](https://github.com/fostroll/mordl) with
-UPOS and FEATS models already trained.
+1. **Opional:** Morphological parser
+[***MorDL***](https://github.com/fostroll/mordl) with UPOS and FEATS models
+already trained.
 
 ## Usage
 
 All pipeline is contained rucor_to_conllu.ipynb notebook file. Just set the
 paths to the *RuCor* and *MorDL* models and run. Maybe, you'll want also to
-change some variables in the cell `4`.
+change some variables in cells `2` or/and `4`.
 
 ## License
 
